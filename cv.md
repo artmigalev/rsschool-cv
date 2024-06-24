@@ -1,48 +1,40 @@
-
-
-
 # ** ARTYOM MIGALEV
-
 ## __FRONTEND DEVELOPER__
-
-**Контактная информация:**
+**Contact Information:**
 - **Email:** art_migalev@yahoo.com
-- **Телефон:** +375-29-689-30-69
+- **Phone:** +375-29-689-30-69
 - **LinkedIn:** [linkedin.com/in/artyom-migalev](https://www.linkedin.com/in/artyom-migalev-66765821b/)
 - **GitHub:** [github.com/artmigalev](https://github.com/artmigalev)
-- **Локация:** Minsk, Belarus
+- **Location:** Minsk, Belarus
+===
+## Professional profile
+Frontend developer, no experience. I have excellent command of HTML, CSS, JavaScript and modern frameworks such as React. I am able to work in a team, communicate well and strive for constant professional growth.
 
-## Профессиональный профиль
-фронтенд-разработчик ,без опыта работы. Отлично владею HTML, CSS, JavaScript и современным фреймворкам, такими как React . Умею работать в команде, хорошо коммуницировать и стремлюсь к постоянному профессиональному росту.
-
-## Ключевые навыки
-- HTML5, CSS3, SASS, LESS
+## Key skills
+- HTML5, CSS3, SASS
 - JavaScript (ES6+), TypeScript
 - React
 - Webpack
 - Responsive Design, CSS-in-JS
 - Git, GitHub
 - Agile, Scrum
-- Тестирование ( Mocha)
+- Testing (Mocha)
+===
+## Education
+- DONETSK COLLEGE OF CONSTRUCTION AND ARCHITECTURE
 
-
-
-## Образование
-
-## ДОНЕЦКИЙ КОЛЛЕДЖ СТРОИТЕЛЬСТВА И АРХИТЕКТУРЫ
-
-## Курсы
+## Courses
 -[JavaScript / Front-end Course](https://rs.school/courses/javascript-preschool-ru)
 - [React Course](https://rs.school/courses/reactjs)
 
 
 
-## Личные качества
-- Ответственность и внимательность к деталям.
-- Отличные коммуникативные навыки.
-- Способность быстро учиться и адаптироваться к новым технологиям.
-- Умение работать в команде и самостоятельно.
+## Personal qualities
+- Responsibility and attention to detail.
+- Excellent communication skills.
+- Ability to quickly learn and adapt to new technologies.
+- Ability to work in a team and independently.
 
-## Языки
-- Русский: Родной
-- Английский: Средний уровень (B2)
+## Languages
+- Russian: Native
+- English: Intermediate level (A1)
