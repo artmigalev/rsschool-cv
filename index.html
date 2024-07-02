@@ -1,11 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="wrapper">
+        <ul class="navigation">
+          <li class="nav__list"><a href="#cont" class="nav__link">Contacts</a></li>
+          <li class="nav__list"><a href="#prof" class="nav__link">About me</a></li>
+          <li class="nav__list"><a href="#skill" class="nav__link">Skills</a></li>
+          <li class="nav__list"><a href="#educ" class="nav__link">Education</a></li>
+          <li class="nav__list"><a href="#cour" class="nav__link">Courses</a></li>
+          <li class="nav__list">
+            <a href="#" class="nav__link">Personal qualities</a>
+          </li>
+          <li class="nav__list"><a href="#lang" class="nav__link">Languages</a></li>
+        </ul>
+      </div>
+    </header>
+    <div class="title__cv">
+      <img class="avatar" src="./" alt="me">
+      <div class="name-cv">
+        <h1 class="my-name">MIGALEV ARTYOM </h1>
+        <h2 class="profession">FRONTEND DEVELOPER</h2>
+      </div>
+    </div>
+    <div class="container">
+      <h4 class="sub-title">Location:</h4>
+      <span>Minsk, Belarus</span>
+    </div>
+    <main class="main">
+      <div class="wrapper-main">
+        <section class="contact">
+          <h4 class="sub-title">Contact Information</h4>
+          <ul class="contact-list" id="cont">
+            <li class="list">Email: <a href="mailto:art_migalev@yahoo.com">art_migalev@yahoo.com</a></li>
+            <li class="list">Phone: <a href="tel:+375296893069">+375 (29) 689- ** - **</a></li>
+            <li class="list">LinkedIn: <a href="https://www.linkedin.com/in/artyom-migalev-66765821b/" class="contact-link">artyom-migalev</a></li>
+            <li class="list">GitHub: <a href="https://github.com/artmigalev" class="contact-link">artmigalev</a></li>
+          </ul>
+        </section>
+        <section class="prof" id="prof">
+          <h4 class="sub-title">Professional profile</h4>
+          <p class="prof-text">Frontend developer, no experience. I have excellent command of HTML, CSS, JavaScript and modern frameworks such as React. I am able to work in a team, communicate well and strive for constant professional growth.</p>
+        </section>
+        <section class="skills" id="skill">
+          <h4 class="sub-title">Key skills</h4>
+          <ul class="skills-list">
+            <li class="list-skill">HTML5, CSS3, SASS</li>
+            <li class="list-skill">JavaScript (ES6+), TypeScript</li>
+            <li class="list-skill">React</li>
+            <li class="list-skill">Webpack</li>
+            <li class="list-skill">Responsive Design, CSS-in-JS</li>
+            <li class="list-skill"> Git, GitHub</li>
+            <li class="list-skill"> Agile, Scrum</li>
+            <li class="list-skill">Testing (Mocha)</li>
+          </ul>
+
+        </section>
+        <section class="sec-education" id="educ">
+          <h4 class="sub-title">Education</h4>
+          <span class="name-coledge">DONETSK COLLEGE OF CONSTRUCTION AND ARCHITECTURE</span>
+
+        </section>
+        <section class="sec-course" id="cour">
+          <h4 class="sub-title">Courses</h4>
+          <ul class="course-list">
+            <li class="course"><a href="http://rs.school/courses/javascript-preschool-ru">JavaScript / Front-end Course</a></li>
+            <li class="course"><a href="https://rs.school/courses/reactjs">React Course</a></li>
+          </ul>
+        </section>
+
+        <section class=sec-qualities"">
+          <h4 class="sub-title">Personal qualities</h4>
+          <ul class="qualities-list">
+            <li class="qualitie">Responsibility and attention to detail.</li>
+            <li class="qualitie">Excellent communication skills.</li>
+            <li class="qualitie">Ability to quickly learn and adapt to new technologies.</li>
+            <li class="qualitie">Ability to work in a team and independently.</li>
+          </ul>
+        </section>
+        <section class="sec-lang" id="lang">
+          <h4 class="sub-title">Languages</h4>
+
+          <ul class="lang-list">
+            <li class="lang">Russian: Native</li>
+            <li class="lang">English: Intermediate level (A1)</li>
+          </ul>
+        </section>
+      </div>
+    </main>
+  </body>
 </html>
