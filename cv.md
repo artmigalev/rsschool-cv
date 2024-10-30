@@ -46,6 +46,10 @@ DONETSK COLLEGE OF CONSTRUCTION AND ARCHITECTURE
 
 - [React Course](https://rs.school/courses/reactjs)
 
+## Certifications
+- [JavaScript / Front-end Course](https://app.rs.school/certificate/fhb1az4z)
+
+
 ## Personal qualities
 
 - Responsibility and attention to detail.
